@@ -36,7 +36,7 @@ Accessing the subkey : SYSTEM\CurrentControlSet\Enum\USBSTOR
 2  Devices identified.  
 
 Accessing the subkey : SYSTEM\CurrentControlSet\Enum\USB   
-Accessing the subkey : SYSTEM\CurrentControlSet\Enum\USB     
+Accessing the subkey : SOFTWARE\Microsoft\Windows Portable Devices\Devices    
 Accessing the subkey : SYSTEM\MountedDevices    
 Accessing the registry hive : HKEY_CURRENT_USER                  
 Accessing the subkey : Software\Microsoft\Windows\CurrentVersion\Explorer\Mountpoints2    
@@ -75,7 +75,7 @@ Outputting to the file ::  hello.txt
 Storing the hash to the file ::  hello.txt.sha256                                                 
 ----------------------------------------------------------------- 
 ```
-#### Explaination
+### Explaination
 ---
  The alternate volume name is the name of a partition that was seen in the device at some point in time. 
  The rest is self explanatory

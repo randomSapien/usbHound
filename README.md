@@ -1,4 +1,4 @@
-# UsbSniff
+# UsbHound
 
 &nbsp;
 &nbsp;
@@ -24,7 +24,7 @@ This is a tool that gathers information of usb devices connected to your windows
 &nbsp;
 
 ```
-py usbsniff.py -o output.txt -v -e -s 
+py usbhound.py -o output.txt -v -e -s 
 ```
 
 ##### Sample output :

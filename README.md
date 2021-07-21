@@ -1,7 +1,7 @@
 # UsbSniff
 
 &nbsp;
-
+&nbsp;
 ## Description
 ---
 This is a tool that gathers information of usb devices connected to your windows device. The information is gathered from the registry of your machine that is easily obtained. All this tool does is automate the process of looking up the information of each usb device connected to your machine and present it as a list. 

@@ -4,7 +4,7 @@
 &nbsp;
 ## Description
 ---
-This is a tool that gathers information of usb devices connected to your windows system. The information is gathered from the registry of your machine. All this tool does is automate the process of looking up the information of each usb device connected to your machine and present it as a list. 
+This is a tool that gathers information of usb devices connected to your windows system. The information is gathered from the registry of your machine. This tool automates the process of looking up the information of each usb device connected to your machine and presents it as a list. 
 
 ## Features 
 ---

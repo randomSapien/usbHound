@@ -75,7 +75,7 @@ Outputting to the file ::  hello.txt
 Storing the hash to the file ::  hello.txt.sha256                                                 
 ----------------------------------------------------------------- 
 ```
-### Explaination
+### Explanation
 ---
  The alternate volume name is the name of a partition that was seen in the device at some point in time. 
  The rest is self explanatory
